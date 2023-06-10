@@ -2,6 +2,17 @@
   background-image: linear-gradient(45deg, #64dc9e 0%, #FFFB7D 100%);
 }
 
+.jumbotron{
+  color: #f0f9ff;
+
+}
+
+.form-group input{
+  width: 20rem;
+  display: inline-block;
+  
+}
+
 .grilla {
   width: 90%;
   max-width: 1240px;
@@ -12,6 +23,15 @@
   grid-gap: 20px;
 }
 
+
+
+.bg-jumbotron{
+  background-image: url('images/tenis2.jpg');
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+
+}
 
 .card {
   display: flex;
