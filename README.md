@@ -5,7 +5,6 @@ Creacion de Landing page para un negocio ficticio
 # Indice
 * [1. Objetivos](#Objetivos)
 * [2. Requerimientos Minimos](#Requerimientos-Minimos)
-* [3. Autor](#Autor)
 
 ## Objetivos
 - Desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación
