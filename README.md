@@ -1,16 +1,16 @@
-## Descripcion del proyecto
+# Descripcion del proyecto
 
 Creacion de Landing page para un negocio ficticio
 
 ## Indice
-- Objetivos
-- Requerimientos Minimos
-- Autor
+* [1. Objetivos](#Objetivos)
+* [2. Requerimientos Minimos](#Requerimientos-Minimos)
+* [3. Autor](#Autor)
 
-## Objetivos
+# Objetivos
 - Desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación
 
-## Requerimientos Minimos
+# Requerimientos Minimos
 - Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5)
 - Aplicar tipos de selectores en CSS.
 - Sección Header, Jumbotron, footer
@@ -19,6 +19,6 @@ Creacion de Landing page para un negocio ficticio
 - Responsive Web Design
 - Crear una URL para compartir (puedes utilizar Netlify o GitHub Pages)
 
-## Autor
+# Autor
 
 Felipe Quezada
